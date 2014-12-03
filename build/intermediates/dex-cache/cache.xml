@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-906744f7d301aaff325841e573060ba785109db6.jar"
+        jar="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\pre-dexed\test\debug\espresso-contrib-1.1-bundled-26300c598f478352bb0e81a1fa622269c3d22be4.jar"
+        jar="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\libs\espresso-contrib-1.1-bundled.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aeb0d47bb7de63c8ec7f603bf2164ee46283b6c6"/>
+    <item
+        dex="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-8a24023954e30a3c04022e1d8fb9aaad3cc3882a.jar"
+        jar="C:\Program Files (x86)\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-fd21690448f612171ffd3b84b05af4619377bf59.jar"
+        jar="C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\AndroidFunctionalTestEspresso\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

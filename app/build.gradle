@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "info.androidhive.slidingmenu"
+        minSdkVersion 11
+        targetSdkVersion 20
+        testInstrumentationRunner "com.google.android.apps.common.testing.testrunner.GoogleInstrumentationTestRunner"
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:20.0.0'
+    //androidTestCompile 'com.jakewharton.espresso:espresso:1.1-r
+    androidTestCompile files('libs/espresso-contrib-1.1-bundled.jar')
+}
